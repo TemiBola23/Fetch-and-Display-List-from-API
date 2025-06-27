@@ -31,3 +31,15 @@ fetch-display-list/
 ├── REPORT.md
 ├── package.json
 └── vite.config.js
+
+
+## ⚙️ Setup Instructions
+```bash
+git clone https://github.com/your-username/fetch-display-list.git
+cd fetch-display-list
+npm install
+npm run dev
+```
+
+## 📃 License
+MIT License
